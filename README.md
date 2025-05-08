@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Jinadhi Charya
 
 <div align="center">
@@ -7,7 +6,7 @@
 
 ## 💫 About Me
 
-
+```python
 class Developer:
     def __init__(self):
         self.name = "[W.P.Jinadhi Charya Wijesooriya]"
@@ -17,6 +16,7 @@ class Developer:
         self.current_focus = "Building awesome projects!"
 
 me = Developer()
+
 
 
 
