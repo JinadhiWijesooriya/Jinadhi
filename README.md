@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-python
+```python
 class Developer:
     def __init__(self):
         self.name = "[W.P. Jinadhi Charya Wijesooriya]"
@@ -17,7 +17,7 @@ class Developer:
         self.current_focus = "Building awesome projects with AI/ML!"
 
 me = Developer()
-
+````
 
 ## 📊 GitHub Statistics
 
@@ -49,31 +49,31 @@ me = Developer()
 <div align="center">
 
 <a href="https://github.com/JinadhiWijesooriya/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Portfolio-Website&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Portfolio-Website&theme=radical" />
 </a>
 
 <a href="https://github.com/JinadhiWijesooriya/Contact-app-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Contact-app-project&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Contact-app-project&theme=radical" />
 </a>
 
 <a href="https://github.com/JinadhiWijesooriya/Job_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Job_App&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Job_App&theme=radical" />
 </a>
 
 <a href="https://github.com/JinadhiWijesooriya/Joy_Kalpitiya-webSite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Joy_Kalpitiya-webSite&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Joy_Kalpitiya-webSite&theme=radical" />
 </a>
 
 <a href="https://github.com/JinadhiWijesooriya/Student_Registration_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Student_Registration_System&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Student_Registration_System&theme=radical" />
 </a>
 
 <a href="https://github.com/JinadhiWijesooriya/Weather_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Weather_App&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Weather_App&theme=radical" />
 </a>
 
 <a href="https://github.com/JinadhiWijesooriya/Furniture_Villa-webPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Furniture_Villa-webPage&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JinadhiWijesooriya&repo=Furniture_Villa-webPage&theme=radical" />
 </a>
 
 </div>
@@ -106,4 +106,5 @@ me = Developer()
 <div align="center">
   <i>⭐️ If you like my projects, feel free to star them and show some love! ⭐️</i>
 </div>
+```
 
